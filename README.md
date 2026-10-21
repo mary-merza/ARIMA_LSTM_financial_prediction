@@ -2,6 +2,8 @@
 
 This notebook provides a comprehensive solution for financial analysis, including synthetic data generation, anomaly detection, time-series forecasting using ARIMA and LSTM models, and a rule-based financial recommendation system.
 
+View the [publication](https://ieeexplore.ieee.org/document/11253447).
+
 ## Table of Contents
 
 - [Introduction](#introduction)
